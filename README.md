@@ -27,3 +27,4 @@ Mmodificare la password di root
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'TUA_PASSWORD';
 Accedere con la password di root
 
+Abilita la porta 80 e rendi il link pubblico
